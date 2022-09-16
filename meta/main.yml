@@ -1,0 +1,10 @@
+galaxy_info:
+  author: Shobhit Sharma
+  description: Detect OS & Install HTTP Server accordingly
+  company: 
+
+  license: MIT
+
+  min_ansible_version: 2.9
+
+  galaxy_tags: http-server, apache2, httpd
